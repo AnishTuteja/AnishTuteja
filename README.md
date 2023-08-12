@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anish-tuteja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anish-tuteja/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anish-tuteja/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw0Uj1lUDT87ToB-1ZUJ1D_V&ust=1691914749040000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMirxt7X1oADFQAAAAAdAAAAABAE" alt="https://www.linkedin.com/in/anish-tuteja/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
